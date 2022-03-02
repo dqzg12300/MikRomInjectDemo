@@ -20,4 +20,4 @@ mv /sdcard/libmikdobby.so /sdcard/Android/data/<packageName>/
 
 ### 视频演示
 
-稍后更新
+[MikRom的注入功能](https://www.bilibili.com/video/BV1tL411N7w1?spm_id_from=333.999.0.0)
